@@ -1,0 +1,27 @@
+.fieldInfo {
+  color: rgb(251, 174, 44);
+  font-family: Bitter, Georgia, "Times New Roman", Times, serif;
+  font-size: 1.2em;
+}
+
+/************************************************************************/
+
+/*unvisited link */
+/* a:link {
+  color: #ffffff; 
+}*/
+
+/* visited link */
+/* a:visited {
+  color: green;
+} */
+
+/* mouse over link */
+/* a:hover {
+  color: hotpink;
+} */
+
+/* selected link */
+/* a:active {
+  color: blue;
+} */
